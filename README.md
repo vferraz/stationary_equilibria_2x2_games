@@ -14,4 +14,4 @@ This repository contains all materials related to the paper "Stationary Equilibr
 - For equilibria computations, navigate to `equilibria_computation/` and open the respective Jupyter notebooks.
 - To perform data analysis and generate plots, go to `plots_and_data_analysis/` and follow the instructions within.
 
-Corresponding author: Vinícius Ferrazm (visferraz@gmail.com)
+Corresponding author: Vinícius Ferraz (visferraz@gmail.com)
